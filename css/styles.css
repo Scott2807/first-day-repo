@@ -1,16 +1,19 @@
 .lesson {
-    background-color: rgb(24, 156, 64);
+    background-color: rgba(136, 223, 162, 0.911); margin-left: 2cm; margin-right: 28cm;
+  }
+  .div {
+    background-color: slategrey;
   }
   
   .bio {
-    color:brown;
+    color:brown; background-color: rgb(136, 223, 162, 0.911); max-width: 10cm;
   }
   .title {
     color: darkblue;
   }
   
   #email {
-    background-color: rgb(29, 16, 212);
+    background-color: rgb(221, 221, 231);
   }
   
   #github {
@@ -22,7 +25,7 @@
   }
   .box {
    /*Sets the height and width of the section */
-   width: 200px;
+   width: 300px;
    height: 200px
  }
  
